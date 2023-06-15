@@ -1,5 +1,5 @@
 # My-SQL
-USE creat-databases
+USE [creat-databases](https://github.com/SaeedIram/My-SQL/blob/main/create-databases.sql)
 Written different queries to filter,add and create new columns.
 - [x] Using the Query 2 you created change the points to reads times by 10 and plus 100. Record your results in your word document.
 - [x] Change the Query 2 code to create a discount factor so the table now shows a discount header and changing the (point + 10) *100
