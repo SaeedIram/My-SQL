@@ -1,6 +1,6 @@
 # My-SQL
 [Assignment.
-](https://github.com/SaeedIram/My-SQL/blob/main/my%20Sql%20assignment_%20create_databases1%20(1).sql)
+](https://github.com/SaeedIram/My-SQL/blob/main/step%20by%20step%20MYSQL%20task%201%2C2%2C3%20and%20EER%20(1)%20(1).pdf)
 
 USE [creat-databases](https://github.com/SaeedIram/My-SQL/blob/main/create-databases.sql)
 # Different queries to filter,add and create new columns.
