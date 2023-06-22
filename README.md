@@ -21,4 +21,4 @@ USE [creat-databases](https://github.com/SaeedIram/My-SQL/blob/main/create-datab
 - [x] Find 10 most ordered item from order items.
 - [x] Find the maximum unit price as costly unit.
 
-* Syntax of quries can be find in [Completed Assignment](https://github.com/SaeedIram/My-SQL/blob/main/My%20SQL%20Assignment%20with%20quries.docx)https://github.com/SaeedIram/My-SQL/blob/main/My%20SQL%20Assignment%20with%20quries.docx.
+* Syntax of quries can be find in [Completed Assignment](https://github.com/SaeedIram/My-SQL/blob/main/My%20SQL%20Assignment%20with%20quries.docx).
