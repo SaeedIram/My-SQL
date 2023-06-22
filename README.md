@@ -11,6 +11,8 @@ USE [creat-databases](https://github.com/SaeedIram/My-SQL/blob/main/create-datab
 - [x] Creating an [EER Diagram](https://github.com/SaeedIram/My-SQL/blob/main/eer.mwb)
   
 - [ ] ![eer](https://github.com/SaeedIram/My-SQL/assets/136697415/a46cef0a-9174-4789-b1bd-5fbe0db27033)
+
+## Some additional quries.
       
 - [x] Find the name of customers that have points between 1000 and 3500
 - [x] Find the name, address and city of customers who’s name last name start with “R”.
