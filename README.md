@@ -1,4 +1,5 @@
 # My-SQL
+## Assignment
 USE [creat-databases](https://github.com/SaeedIram/My-SQL/blob/main/create-databases.sql)
 * Written different queries to filter,add and create new columns.
 - [x] Using the Query 2 you created change the points to reads times by 10 and plus 100. Record your results in your word document.
@@ -15,3 +16,5 @@ USE [creat-databases](https://github.com/SaeedIram/My-SQL/blob/main/create-datab
 - [x] Find total price of ordered items.
 - [x] Find 10 most ordered item from order items.
 - [x] Find the maximum unit price as costly unit.
+
+[Assignment](https://github.com/SaeedIram/R-and-Power-BI/blob/main/R%2BPowerBI.pptx)
